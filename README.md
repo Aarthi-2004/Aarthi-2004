@@ -1,5 +1,9 @@
 # 💫 About Me:
-👀I'm Interested in Full Stack Development<br>🌱I'm Currently Learning Machine Learning using Python<br>📫How to reach me aarthiseenuva241@gmail.com<br>😄Pronouns: she/her<br>⚡Fun fact: I like to crack jokes<br><br><br>
+👋 Hi, I’m Aarthi
+👀I'm Interested in Full Stack Development<br>🌱I'm Currently Learning Machine Learning using Python<br>
+📫How to reach me aarthiseenuva241@gmail.com<br>
+💞️ I’m looking to collaborate on ...
+😄Pronouns: she/her<br>⚡Fun fact: I like to crack jokes<br><br><br>
 
 
 ## 🌐 Socials:
